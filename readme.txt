@@ -16,4 +16,8 @@ creating to a new Branch "dev"
 creating to a new Branch "featual"
 Creating a new Branch is quick&simple
 Creating a new Branch is quick&simple
+<<<<<<< HEAD
 master
+=======
+fatual
+>>>>>>> featual
