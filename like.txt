@@ -17,6 +17,6 @@ class Dog:public Animal
 }
 int main()
 {
-	Dog dog;
+	Dog dog;;;;;;
 	
 }
