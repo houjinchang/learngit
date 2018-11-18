@@ -14,3 +14,4 @@ woshinidie
 creating to a new Branch "dev"
 
 creating to a new Branch "featual"
+Creating a new Branch is quick&simple
