@@ -3,7 +3,7 @@ using namespace std;
 class Animal
 {
 	private:
-		int age;
+		
 		
 };
 class Dog:public Animal
