@@ -8,16 +8,4 @@ class Animal
 		
 };
 class Dog:public Animal
-{
-	public :
-		void setAge(int n)
-		{
-			age=n;
-		}
-	
-}
-int main()
-{
-	Dog dog;
-	
-}
+
